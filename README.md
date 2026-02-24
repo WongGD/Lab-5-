@@ -1,4 +1,4 @@
-<img width="652" height="348" alt="image" src="https://github.com/user-attachments/assets/c4944980-4eef-4d62-99ef-866022a017a0" /># Lab-5-
+# Lab-5-
  Опис повинен включати: вербальну модель предметної
 області, побудовані моделі на кожній ітерації з аналізом. Source файл з роботою.
 
